@@ -10,6 +10,9 @@ This repo is a series of online courses notes and notebooks offered by [deeplear
 * Convolutional Neural Network
 * Sequence Models
 
+### Certificate Earned
+![Certificate]("https://www.coursera.org/account/accomplishments/specialization/certificate/LVJCAX66VKQR?raw=true")
+
 ### Reminder
 
 ---
