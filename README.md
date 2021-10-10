@@ -11,7 +11,7 @@ This repo is a series of online courses notes and notebooks offered by [deeplear
 * Sequence Models
 
 ### Certificate Earned
-![Certificate]("./Cert.pdf")
+![Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/LVJCAX66VKQR)
 
 ### Reminder
 
